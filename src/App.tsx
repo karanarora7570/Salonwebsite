@@ -1441,7 +1441,7 @@ function Contact() {
                     Monday - Saturday: 9:00 AM - 9:00 PM
                   </p>
                   <p className="text-gray-700 dark:text-gray-300">
-                    Sunday: 10:00 AM - 6:00 PM
+                    Sunday: 09:00 AM - 10:00 PM
                   </p>
                 </div>
               </div>
