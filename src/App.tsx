@@ -279,8 +279,8 @@ function Hero() {
           ref={titleRef}
           className="opacity-0 translate-y-10 transition-all duration-1000 text-4xl sm:text-5xl md:text-7xl font-bold mb-6 tracking-tight"
         >
-          <span className="block text-white">Elevate Your Style at</span>
-          <span className="block mt-2 text-5xl sm:text-6xl md:text-8xl bg-clip-text text-transparent bg-gradient-to-r from-purple-400 via-pink-500 to-purple-400 animate-gradient-x">
+          <span className="block text-white font-[math]">Elevate Your Style at</span>
+          <span className="block font-[math] mt-2 text-5xl sm:text-6xl md:text-8xl bg-clip-text text-transparent bg-gradient-to-r from-purple-400 via-pink-500 to-purple-400 animate-gradient-x">
             Mirror Point
           </span>
         </h1>
